@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Link, NavLink, Route, Routes, useLocation, useParams, useSearchParams } from 'react-router-dom'
-import news from '../PlataformaNoticias - copia/noticias.json'
+import news from './data/noticias.json'
 import Categorias from './Categorias.jsx'
 import './App.css'
 
@@ -129,7 +129,10 @@ function HomePage() {
 
   return (
     <>
-      <section className="banner">
+      <section
+        className="banner"
+        style={{ backgroundImage: `url("${imageUrl('img/banner.jpg')}")` }}
+      >
         <div className="banner-text">
           <h2>Bienvenidos</h2>
           <p>Explora las últimas noticias y experiencias.</p>

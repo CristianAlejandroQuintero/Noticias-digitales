@@ -1,0 +1,146 @@
+[
+  {
+    "id": "tecnologia",
+    "titulo": "Avances en Tecnología",
+    "categoria": "Tecnología",
+    "fecha": "2026-09-20",
+    "imagen": "img/noticias/tecnologia.jpg",
+    "descripcion": "Conoce las innovaciones digitales que están transformando nuestra vida cotidiana.",
+    "cuerpo": "La tecnología continúa transformando la manera en que trabajamos, aprendemos y nos comunicamos. Las herramientas digitales actuales permiten automatizar tareas y acercar servicios a más personas.\n\nEspecialistas destacan que la innovación responsable y la protección de los datos deben acompañar cada nuevo desarrollo. La alfabetización digital también es clave para que todas las comunidades puedan aprovechar estas oportunidades."
+  },
+  {
+    "id": "turismo",
+    "titulo": "Turismo en la Montaña",
+    "categoria": "Turismo",
+    "fecha": "2026-09-18",
+    "imagen": "img/noticias/turismo.jpg",
+    "descripcion": "Explora destinos naturales y encuentra ideas para tu próxima aventura.",
+    "cuerpo": "Los destinos de montaña ofrecen paisajes, senderos y experiencias para viajeros de distintos niveles. Planificar con anticipación ayuda a disfrutar el recorrido y cuidar el entorno natural.\n\nAntes de salir, conviene revisar el pronóstico, llevar agua y utilizar rutas señalizadas. Elegir servicios locales también contribuye al desarrollo sostenible de las comunidades anfitrionas."
+  },
+  {
+    "id": "economia",
+    "titulo": "Economía Actual",
+    "categoria": "Economía",
+    "fecha": "2026-09-15",
+    "imagen": "img/noticias/economia.jpg",
+    "descripcion": "Un resumen de las tendencias económicas y su impacto en la vida diaria.",
+    "cuerpo": "Los cambios en los precios, el empleo y el comercio influyen en las decisiones cotidianas de familias y empresas. Comprender estos indicadores permite analizar mejor el contexto económico.\n\nLa planificación financiera y el acceso a información clara son herramientas útiles para tomar decisiones informadas. Los especialistas recomiendan consultar fuentes diversas y actualizadas."
+  },
+  {
+    "id": "educacion",
+    "titulo": "Educación y Futuro",
+    "categoria": "Educación",
+    "fecha": "2026-09-12",
+    "imagen": "img/noticias/educacion.jpg",
+    "descripcion": "Descubre nuevas tendencias educativas y herramientas para aprender.",
+    "cuerpo": "Las nuevas herramientas educativas amplían las posibilidades de aprendizaje dentro y fuera del aula. Los recursos digitales pueden complementar la enseñanza cuando se integran con objetivos claros y acompañamiento docente.\n\nEl desarrollo de habilidades críticas, creativas y colaborativas prepara a los estudiantes para los retos del futuro. La formación continua permite que personas de todas las edades sigan adquiriendo conocimientos."
+  },
+  {
+    "id": "inteligencia-artificial-salud",
+    "titulo": "Inteligencia artificial aplicada a la salud",
+    "categoria": "Tecnología",
+    "fecha": "2026-09-10",
+    "imagen": "img/noticias/tecnologia.jpg",
+    "descripcion": "Nuevas herramientas digitales ayudan a profesionales a organizar información clínica y apoyar diagnósticos.",
+    "cuerpo": "Los sistemas de inteligencia artificial se están incorporando como apoyo para analizar imágenes médicas y organizar grandes volúmenes de información. Su uso puede ayudar a los equipos de salud a identificar patrones y priorizar revisiones.\n\nEstas herramientas no sustituyen el criterio profesional. La privacidad, la transparencia y la evaluación rigurosa son esenciales antes de integrar cualquier sistema en la atención de pacientes."
+  },
+  {
+    "id": "seguridad-digital-hogar",
+    "titulo": "Consejos para proteger tus dispositivos conectados",
+    "categoria": "Tecnología",
+    "fecha": "2026-09-08",
+    "imagen": "img/noticias/tecnologia.jpg",
+    "descripcion": "Hábitos sencillos para reforzar la seguridad de teléfonos, computadoras y dispositivos del hogar.",
+    "cuerpo": "Cada vez más aparatos del hogar se conectan a internet. Cambiar las contraseñas predeterminadas, instalar actualizaciones y activar la verificación en dos pasos ayuda a reducir riesgos.\n\nTambién es recomendable revisar los permisos de las aplicaciones y conectar los dispositivos a una red protegida. Unos minutos de configuración pueden evitar accesos no autorizados a cuentas e información personal."
+  },
+  {
+    "id": "baterias-movilidad-electrica",
+    "titulo": "Avances en baterías para movilidad eléctrica",
+    "categoria": "Tecnología",
+    "fecha": "2026-09-05",
+    "imagen": "img/noticias/tecnologia.jpg",
+    "descripcion": "La investigación busca baterías más duraderas, eficientes y fáciles de reciclar.",
+    "cuerpo": "Equipos de investigación y empresas trabajan en mejorar la capacidad, el tiempo de carga y la vida útil de las baterías utilizadas en vehículos eléctricos. El objetivo es facilitar su uso cotidiano y reducir el impacto de su fabricación.\n\nAdemás del rendimiento, el reciclaje y la recuperación de materiales son aspectos importantes para construir una cadena de suministro más sostenible."
+  },
+  {
+    "id": "rutas-costeras",
+    "titulo": "Rutas costeras para descubrir a pie",
+    "categoria": "Turismo",
+    "fecha": "2026-09-09",
+    "imagen": "img/noticias/turismo.jpg",
+    "descripcion": "Recorridos junto al mar combinan paisajes, cultura local y actividad al aire libre.",
+    "cuerpo": "Las rutas costeras permiten conocer playas, acantilados y pequeñas localidades a un ritmo tranquilo. Muchas conectan miradores y espacios naturales con comercios y restaurantes de la zona.\n\nAntes de iniciar el recorrido, consulta su dificultad, lleva agua y respeta las indicaciones de conservación. Viajar fuera de las horas de mayor afluencia también ayuda a disfrutar mejor del entorno."
+  },
+  {
+    "id": "escapada-rural",
+    "titulo": "Una escapada rural para desconectar",
+    "categoria": "Turismo",
+    "fecha": "2026-09-06",
+    "imagen": "img/noticias/turismo.jpg",
+    "descripcion": "Pueblos, mercados y senderos ofrecen planes para una pausa de fin de semana.",
+    "cuerpo": "Una visita a un destino rural puede incluir paseos por el centro histórico, mercados de productores y rutas por la naturaleza. La oferta cambia según la temporada y las tradiciones de cada localidad.\n\nReservar alojamiento local y consultar las actividades comunitarias permite organizar mejor el viaje y apoyar a quienes viven en el destino."
+  },
+  {
+    "id": "turismo-responsable",
+    "titulo": "Pequeñas decisiones para viajar de forma responsable",
+    "categoria": "Turismo",
+    "fecha": "2026-09-03",
+    "imagen": "img/noticias/turismo.jpg",
+    "descripcion": "Elegir proveedores locales y cuidar los espacios naturales mejora la experiencia del viaje.",
+    "cuerpo": "Viajar de forma responsable empieza con decisiones sencillas: respetar las normas de los espacios naturales, reducir residuos y elegir servicios de proximidad. Estas prácticas ayudan a preservar los lugares que atraen a visitantes.\n\nInformarse sobre las costumbres locales y distribuir las visitas durante el año también favorece una relación más equilibrada entre turismo y comunidad."
+  },
+  {
+    "id": "presupuesto-familiar",
+    "titulo": "Cómo organizar un presupuesto familiar sencillo",
+    "categoria": "Economía",
+    "fecha": "2026-09-07",
+    "imagen": "img/noticias/economia.jpg",
+    "descripcion": "Registrar ingresos y gastos ayuda a planificar objetivos y anticipar pagos.",
+    "cuerpo": "Un presupuesto doméstico puede comenzar con una lista de ingresos y gastos habituales. Separar necesidades, compromisos y gastos ocasionales ayuda a identificar cuánto se puede destinar al ahorro o a nuevos objetivos.\n\nRevisarlo con regularidad permite ajustarlo cuando cambian las circunstancias. No existe una fórmula única: lo importante es que el registro sea claro y fácil de mantener."
+  },
+  {
+    "id": "comercio-pequenas-empresas",
+    "titulo": "Pequeñas empresas exploran nuevos canales de venta",
+    "categoria": "Economía",
+    "fecha": "2026-09-04",
+    "imagen": "img/noticias/economia.jpg",
+    "descripcion": "Las herramientas digitales permiten a negocios locales llegar a nuevos clientes.",
+    "cuerpo": "Catálogos en línea, pagos digitales y redes sociales están ayudando a pequeños negocios a mostrar sus productos a más personas. Cada canal requiere planificación y una atención constante a las consultas de los clientes.\n\nLa formación y el acceso a soluciones asequibles son factores importantes para que las empresas puedan aprovechar estas oportunidades de manera sostenible."
+  },
+  {
+    "id": "empleo-habilidades",
+    "titulo": "Habilidades que están cambiando el mercado laboral",
+    "categoria": "Economía",
+    "fecha": "2026-09-01",
+    "imagen": "img/noticias/economia.jpg",
+    "descripcion": "La combinación de competencias digitales y comunicación gana relevancia en distintos sectores.",
+    "cuerpo": "La transformación de numerosos sectores está aumentando la demanda de habilidades digitales, análisis de información y comunicación. Junto con los conocimientos técnicos, la colaboración y la capacidad de aprender siguen siendo valiosas.\n\nLa capacitación continua permite actualizar competencias y explorar nuevas oportunidades profesionales, tanto para quienes comienzan su carrera como para quienes buscan cambiar de área."
+  },
+  {
+    "id": "aprendizaje-hibrido",
+    "titulo": "El aprendizaje híbrido combina aula y recursos digitales",
+    "categoria": "Educación",
+    "fecha": "2026-09-06",
+    "imagen": "img/noticias/educacion.jpg",
+    "descripcion": "La combinación de actividades presenciales y en línea ofrece nuevas formas de acompañar el aprendizaje.",
+    "cuerpo": "Los modelos híbridos combinan encuentros presenciales con recursos y actividades en línea. Cuando se planifican con objetivos claros, pueden ofrecer flexibilidad y distintas maneras de practicar los contenidos.\n\nEl acceso a dispositivos, la conexión y el acompañamiento docente siguen siendo fundamentales para que todo el alumnado pueda participar."
+  },
+  {
+    "id": "lectura-infancia",
+    "titulo": "Ideas para fomentar la lectura desde la infancia",
+    "categoria": "Educación",
+    "fecha": "2026-09-02",
+    "imagen": "img/noticias/educacion.jpg",
+    "descripcion": "Crear momentos de lectura compartida ayuda a formar un hábito que puede durar toda la vida.",
+    "cuerpo": "Leer en familia, visitar bibliotecas y permitir que niñas y niños elijan historias son formas sencillas de acercarlos a los libros. La lectura compartida también abre espacios para conversar e imaginar.\n\nNo hace falta dedicar mucho tiempo de una sola vez: establecer momentos breves y frecuentes puede ayudar a convertir la lectura en una actividad cotidiana y placentera."
+  },
+  {
+    "id": "ciencia-escuela",
+    "titulo": "Experimentos sencillos acercan la ciencia al aula",
+    "categoria": "Educación",
+    "fecha": "2026-08-29",
+    "imagen": "img/noticias/educacion.jpg",
+    "descripcion": "La observación y las preguntas convierten conceptos científicos en experiencias prácticas.",
+    "cuerpo": "Las actividades prácticas permiten que estudiantes observen fenómenos, formulen preguntas y contrasten ideas. Experimentos sencillos, realizados con materiales seguros, pueden despertar curiosidad por la ciencia.\n\nEl proceso importa tanto como el resultado: registrar observaciones y conversar sobre lo ocurrido ayuda a desarrollar pensamiento crítico y comprensión."
+  }
+]
