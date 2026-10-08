@@ -8,7 +8,7 @@ function Categorias({ onFilterChange }) {
 
   function selectCategory(category) {
     setSelectedCategory(category)
-    onFilterChange(category)
+    onFilterChange?.(category)
   }
 
   return (

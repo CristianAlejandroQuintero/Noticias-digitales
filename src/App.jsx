@@ -70,7 +70,6 @@ function Header({ page }) {
   const links = [
     { to: '/', label: 'Home', page: 'inicio' },
     { to: '/noticias', label: 'Noticias', page: 'noticias' },
-    { to: '/categorias', label: 'Categorías', page: 'categorias' },
     { to: '/contacto', label: 'Contactos', page: 'contacto' },
   ]
 
@@ -154,7 +153,7 @@ function HomePage() {
   )
 }
 
-function NewsPage({ categoryMode = false }) {
+function NewsPage() {
   const [search, setSearch] = useState('')
   const [sortOrder, setSortOrder] = useState('recent')
   const [selectedCategory, setSelectedCategory] = useState('Todas')
@@ -170,13 +169,9 @@ function NewsPage({ categoryMode = false }) {
   return (
     <main className="catalog-page">
       <section className="destacadas" aria-labelledby="titulo-noticias">
-        <p className="page-eyebrow">{categoryMode ? 'Explora las publicaciones por tema' : 'Toda la actualidad en un solo lugar'}</p>
-        <h1 id="titulo-noticias">{categoryMode ? 'Categorías de noticias' : 'Todas las noticias'}</h1>
-        <p className="page-intro">
-          {categoryMode
-            ? 'Selecciona una categoría para ver sus noticias.'
-            : 'Busca entre las últimas publicaciones o filtra por categoría.'}
-        </p>
+        <p className="page-eyebrow">Toda la actualidad en un solo lugar</p>
+        <h1 id="titulo-noticias">Todas las noticias</h1>
+        <p className="page-intro">Busca entre las últimas publicaciones o filtra por categoría.</p>
         <Categorias onFilterChange={setSelectedCategory} />
         <div className="catalog-controls">
           <label className="search-field">
@@ -469,7 +464,7 @@ function App() {
       <Routes>
         <Route element={<HomePage />} path="/" />
         <Route element={<NewsPage />} path="/noticias" />
-        <Route element={<NewsPage categoryMode />} path="/categorias" />
+        <Route element={<Categorias />} path="/categorias" />
         <Route element={<NewsCategoryPage />} path="/temas" />
         <Route element={<NewsCategoryPage />} path="/temas/:slug" />
         <Route element={<DetailRoute />} path="/detalle/:id" />
